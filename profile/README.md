@@ -9,7 +9,7 @@ By continuously innovating and optimizing, we aim to provide more efficient and 
 ## 📌 相关链接 / Useful Links
 - **官方网站 / Official Website**: [https://www.tongdaai.com/](https://www.tongdaai.com/) 🌐  
 - **Hugging Face**: [https://huggingface.co/Tongda](https://huggingface.co/Tongda) 📚
-- **模搭社区**: [https://www.modelscope.cn/organization/Titongda](https://www.modelscope.cn/organization/Titongda) 📚 
+- **魔搭社区**: [https://www.modelscope.cn/organization/Titongda](https://www.modelscope.cn/organization/Titongda) 📚 
 
 ## 🚀 加入我们 / Join Us
 如果您对我们的工作感兴趣，欢迎访问我们的官方网站获取更多信息，或者通过 GitHub 提交问题和建议。  
