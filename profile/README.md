@@ -7,7 +7,7 @@ At Tongda AI, we are committed to advancing the bidding industry by sharing open
 By continuously innovating and optimizing, we aim to provide more efficient and intelligent solutions for the global bidding industry. Stay tuned for our latest updates in this field! 💡
 
 ## 📌 相关链接 / Useful Links
-- **官方网站 / Official Website**: [https://www.tongdaai.com/](https://www.tongdaai.com/) 🌐  
+- **官方网站 / Official Website**: [https://www.qiaowenshu.cn/](https://www.qiaowenshu.cn/) 🌐  
 - **Hugging Face**: [https://huggingface.co/Tongda](https://huggingface.co/Tongda) 📚
 - **魔搭社区**: [https://www.modelscope.cn/organization/Titongda](https://www.modelscope.cn/organization/Titongda) 📚 
 
