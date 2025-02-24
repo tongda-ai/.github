@@ -1,6 +1,6 @@
-# 欢迎来到通答 AI！🎉 / Welcome to Tongda AI! 🎉
+# 欢迎来到巧文书！🎉 / Welcome to Tongda AI! 🎉
 
-在通答 AI，我们致力于通过分享开源 AI 工具、最先进的模型和高质量的数据集，推动招投标行业的发展。🚀  
+在巧文书，我们致力于通过分享开源 AI 工具、最先进的模型和高质量的数据集，推动招投标行业的发展。🚀  
 通过不断创新和优化，我们希望为全球招标行业提供更高效、更智能的解决方案。请关注我们在该领域的最新动态！💡
 
 At Tongda AI, we are committed to advancing the bidding industry by sharing open-source AI tools, state-of-the-art models, and high-quality datasets. 🚀  
@@ -17,7 +17,7 @@ If you're interested in our work, feel free to visit our official website for mo
 
 ## 💬 联系我们 / Contact Us
 - **电子邮件 / Email**: tianhecloud@tianhecloud.com ✉️  
-- **微信官方号**: 通答AI 📱
+- **微信官方号**: 巧文书 📱
 
 ---
 
