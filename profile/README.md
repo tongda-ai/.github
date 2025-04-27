@@ -1,14 +1,14 @@
-# 欢迎来到巧文书！🎉 / Welcome to Tongda AI! 🎉
+# 欢迎来到巧文书！🎉 / Welcome to Qiaowenshu! 🎉
 
 在巧文书，我们致力于通过分享开源 AI 工具、最先进的模型和高质量的数据集，推动招投标行业的发展。🚀  
 通过不断创新和优化，我们希望为全球招标行业提供更高效、更智能的解决方案。请关注我们在该领域的最新动态！💡
 
-At Tongda AI, we are committed to advancing the bidding industry by sharing open-source AI tools, state-of-the-art models, and high-quality datasets. 🚀  
+At Qiaowenshu, we are committed to advancing the bidding industry by sharing open-source AI tools, state-of-the-art models, and high-quality datasets. 🚀  
 By continuously innovating and optimizing, we aim to provide more efficient and intelligent solutions for the global bidding industry. Stay tuned for our latest updates in this field! 💡
 
 ## 📌 相关链接 / Useful Links
 - **官方网站 / Official Website**: [https://www.qiaowenshu.cn/](https://www.qiaowenshu.cn/) 🌐  
-- **Hugging Face**: [https://huggingface.co/Tongda](https://huggingface.co/Tongda) 📚
+- **Hugging Face**: [https://huggingface.co/Qiaowenshu](https://huggingface.co/Qiaowenshu) 📚
 - **魔搭社区**: [https://www.modelscope.cn/organization/Titongda](https://www.modelscope.cn/organization/Titongda) 📚 
 
 ## 🚀 加入我们 / Join Us
